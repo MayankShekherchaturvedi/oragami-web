@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color:rgb(61, 221, 21);
+}
+h2{
+    text-align: center;
+    color: navy;
+}
+.header{
+    background-color: rgb(79, 145, 231);
+    display: flex;
+    justify-content: center;
+}
+.description{
+    text-align: center;
+    background-color: aqua;
+}
+.others{
+    background-color: rgb(238, 114, 92);
+}
+.Otitle{
+    text-align: center;
+    background-color: lime;
+}
+.item{
+    display: flex;
+    text-shadow: rgb(234, 0, 255);
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.matter{
+    background-color: rgb(85, 189, 145);
+
+}
